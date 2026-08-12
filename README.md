@@ -17,7 +17,7 @@ The program will calculate your BMI and display your BMI category.
 
 Below 18.5	Underweight
 
-18.5 – 24.9	Normal Weight
+18.6 – 24.9	Normal Weight
 
 25.0 – 29.9	Overweight
 
