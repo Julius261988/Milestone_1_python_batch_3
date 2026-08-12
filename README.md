@@ -4,18 +4,18 @@ A BMI (Body Mass Index) calculator is a tool that estimates whether a person's w
 
 # How to run it
 
-## BMI CALCULATOR
+### BMI CALCULATOR
 Make sure to input numbers greater than zero(0).
 Weight: Kilograms
 Height: Meters
 
 The program will calculate your BMI and display your BMI category.
 
-## BMI Range	Category
+### BMI Range	Category
 Below 18.5	Underweight
 18.5 – 24.9	Normal Weight
 25.0 – 29.9	Overweight
 30.0 and above	Obese
 
-#Challenge
+# Challenge
 One challenge I encountered was linking my VS Code project to my GitHub repository. At first, I couldn’t connect the files to the repository because Git was not installed on my computer. After identifying the issue, I installed Git and was able to properly connect and manage my project through GitHub.
