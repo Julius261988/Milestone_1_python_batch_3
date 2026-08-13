@@ -15,6 +15,7 @@ The program will calculate your BMI and display your BMI category. The result is
 
 ### BMI Range	Category
 
+BY: American Cancer Society of Atlanta, Georgia
 Below 18.49	Underweight
 
 18.5 – 24.99	Normal Weight
